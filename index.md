@@ -11,4 +11,4 @@ Er kam aus ärmlichen Verhältnissen. Kleinere Rollen halfen ihm in seiner Karri
 
 > Gehen wir
 
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sean_Connery_as_James_Bond_%281971%2C_cropped%29.jpg/119px-Sean_Connery_as_James_Bond_%281971%2C_cropped%29.jpg/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sean_Connery_as_James_Bond_%281971%2C_cropped%29.jpg/119px-Sean_Connery_as_James_Bond_%281971%2C_cropped%29.jpg"/>
