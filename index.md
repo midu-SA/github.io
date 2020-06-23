@@ -8,3 +8,5 @@ Er kam aus ärmlichen Verhältnissen. Kleinere Rollen halfen ihm in seiner Karri
 * Als James Bond ist er witzig
 * Als James Bond löst er alle Aufgaben souverän
 
+
+> Gehen wir
